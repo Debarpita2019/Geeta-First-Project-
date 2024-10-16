@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #3d251e;
+    background-color: #3D251E;
     color: white;
     padding: 1rem;
     text-align: center;
@@ -56,6 +56,6 @@ article {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #333;
+    background-color: #3D251E;
     color: white;
 }
